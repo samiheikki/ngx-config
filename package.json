@@ -1,10 +1,9 @@
 {
-  "name": "ngx-config",
-  "version": "0.0.0",
+  "name": "@nbs/ngx-config",
+  "version": "9.1.0",
   "description": "Configuration utility for Angular",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/fulls1z3/ngx-config.git"
+  "publishConfig": {
+    "registry": "https://tools.nimbus.thenbs.cloud/npm/"
   },
   "keywords": [],
   "author": {
@@ -12,10 +11,6 @@
     "email": "mail@buraktasci.com"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/fulls1z3/ngx-config/issues"
-  },
-  "homepage": "https://github.com/fulls1z3/ngx-config#readme",
   "scripts": {
     "clean": "rimraf dist",
     "build:core": "ts-node tools/build/packager.ts core",
