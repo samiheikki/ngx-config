@@ -1,6 +1,6 @@
 {
   "name": "@nbs/ngx-config-core",
-  "version": "9.1.2",
+  "version": "9.1.3",
   "description": "Configuration utility for Angular",
   "repository": {
     "type": "git",
