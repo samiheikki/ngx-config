@@ -1,6 +1,6 @@
 {
   "name": "@nbs/ngx-config-core",
-  "version": "9.1.1",
+  "version": "9.1.2",
   "description": "Configuration utility for Angular",
   "repository": {
     "type": "git",
@@ -26,9 +26,9 @@
   },
   "homepage": "https://github.com/fulls1z3/ngx-config/tree/master/packages/@ngx-config/core#readme",
   "peerDependencies": {
-    "@angular/common": ">=9.0.0 <14.0.0",
-    "@angular/core": ">=9.0.0 <14.0.0",
-    "@angular/platform-browser-dynamic": ">=9.0.0 <14.0.0"
+    "@angular/common": ">=9.0.0 <16.0.0",
+    "@angular/core": ">=9.0.0 <16.0.0",
+    "@angular/platform-browser-dynamic": ">=9.0.0 <16.0.0"
   },
   "publishConfig": {
     "access": "public",
