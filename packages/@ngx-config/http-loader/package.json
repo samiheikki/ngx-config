@@ -27,7 +27,6 @@
     "@angular/common": ">=9.0.0 <16.0.0",
     "@angular/core": ">=9.0.0 <16.0.0",
     "@angular/platform-browser-dynamic": ">=9.0.0 <16.0.0",
-    "@ngx-config/core": ">=9.0.0 <16.0.0",
     "rxjs": ">=6.0.0"
   },
   "publishConfig": {
