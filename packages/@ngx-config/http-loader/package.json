@@ -27,6 +27,7 @@
     "@angular/common": ">=9.0.0 <16.0.0",
     "@angular/core": ">=9.0.0 <16.0.0",
     "@angular/platform-browser-dynamic": ">=9.0.0 <16.0.0",
+    "@ngx-config/core": "https://gitpkg.now.sh/samiheikki/ngx-config/packages/%40ngx-config/core?master",
     "rxjs": ">=6.0.0"
   },
   "publishConfig": {
